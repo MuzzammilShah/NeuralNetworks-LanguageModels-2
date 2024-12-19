@@ -1,21 +1,61 @@
-## SET 1- MAKEMORE (PART 2)🔗
+## SET 1 - MAKEMORE (PART 2) 🔗
 
-Implemented a MLP language model from the 'Bengio et al. 2003' research paper but on a character-level based prediction following Andrej Karpathy's approach.
-
--------
-
-**✍🏻Notes:**
-Hello. These are my Notes and Codes repo of training my third neural network. This is obviously from the video (Makemore - Part 2) put on this by the main man himself, Andrej Karpathy.   \
-\
-**You can view my portfolio blog for a detailed description. You can read it [here](https://muhammedshah.com/personal-projects)** \
-\
-You will find all my notes that I have understood on this in the notes directory. The codes have been broken down into bit-by-bit so that I have a better understanding on them. **I've divided them into 3 sections, so both the notes and the notebooks have the same corresponding names.**
+[![Documentation](https://img.shields.io/badge/Documentation-Available-blue)](https://muzzammilshah.github.io/Road-to-GPT/Makemore-part2/)
+![Number of Commits](https://img.shields.io/github/commit-activity/m/MuzzammilShah/NeuralNetworks-LanguageModels-2?label=Commits)
+[![Last Commit](https://img.shields.io/github/last-commit/MuzzammilShah/NeuralNetworks-LanguageModels-2.svg?style=flat)](https://github.com/MuzzammilShah/NeuralNetworks-LanguageModels-2/commits/main)  
+![Project Status](https://img.shields.io/badge/Status-Done-success)
 
 &nbsp;
 
-Follow the codes in order if you are revisiting them. Best way is to start from the notes, as the respective notebooks are linked there itself after the explainations. \
-There are some useful comments inside the notebooks as well. So make sure you read those as well :)
+### **Overview**
+In this repository, a **Multi-Layer Perceptron (MLP)** language model inspired by the *Bengio et al. (2003)* research paper has been implemented for **character-level predictions**, following Andrej Karpathy's approach in the **Makemore - Part 2** video.
 
--------
+The implementation demonstrates building and training the MLP model for sequence prediction while further enhancing the understanding of neural network architectures for language modeling.
 
-*See you in the next one!*
+&nbsp;
+
+### **🗂️Repository Structure**
+
+```plaintext
+├── .gitignore
+├── A-Main-Notebook.ipynb
+├── B-Main-Notebook.ipynb
+├── C-Main-Notebook.ipynb
+├── README.md
+├── notes/
+│   ├── A-main-makemore-part2.md
+│   ├── B-main-makemore-part2.md
+│   ├── C-main-makemore-part2.md
+│   └── README.md
+└── names.txt
+```
+
+- **Notes Directory**: Contains detailed notes corresponding to each notebook section.
+- **Jupyter Notebooks**: Step-by-step implementation and exploration of the MLP model.
+- **README.md**: Overview and guide for this repository.
+- **names.txt**: Supplementary data file used in training the model.
+
+&nbsp;
+
+### **📄Instructions**
+
+To get the best understanding:
+
+1. Start by reading the notes in the `notes/` directory. Each section corresponds to a notebook for step-by-step explanations.
+2. Open the corresponding Jupyter Notebook (e.g., `A-Main-Notebook.ipynb` for `A-main-makemore-part2.md`).
+3. Follow the code and comments for a deeper dive into the implementation details.
+
+&nbsp;
+
+### **⭐Documentation**
+
+For a better reading experience and detailed notes, visit my **[Road to GPT Documentation Site](https://muzzammilshah.github.io/Road-to-GPT/)**. 
+
+> **💡Pro Tip**: This site provides an interactive and visually rich explanation of the notes and code. It is highly recommended you view this project from there.
+
+&nbsp;
+
+### **✍🏻Acknowledgments**
+Notes and implementations inspired by the **Makemore - Part 2** video by [Andrej Karpathy](https://karpathy.ai/).  
+
+For more of my projects, visit my [Portfolio Site](https://muhammedshah.com).
